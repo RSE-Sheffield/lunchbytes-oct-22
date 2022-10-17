@@ -1,11 +1,11 @@
 # LunchBytes
-## [Title]
+## From Eyes to Apps
 <style>
     .reveal h1 { font-size:2em; }
     .reveal h2 { font-size:1em; }
 </style>
 
-<!-- [date] -->
+Thurs 20th October 2022
 
 University of Sheffield RSE Team
 
@@ -14,37 +14,21 @@ University of Sheffield RSE Team
 
 # Today
 
-3 x ~10min talks followed by Q&A
-
-Speakers:
-
-::: incremental
-
-* Speaker 1 - *talk title*
-* Speaker 2 - *talk title*
-* Speaker 3 - *talk title*
-
-:::
-
+## From Eyes to Apps
+### Dr Ilse Daly
 
 # Q&A
 
-Questions via:
-<!-- *jamboard link* -->
 
-We'll revisit questions after all of the talks.
+Join at [slido.com](https://slido.com) with code **8922743**
 
-
-# Talks
-
-
-# Q&A
-
+or via <https://app.sli.do/event/aCLNW7nj8gEdMx5SVhUo5U>
 
 # Future Events
 
-<!-- * LunchBytes: [next lunchbytes] -->
+## [LunchBytes Panel: Teaching Code](https://rse.shef.ac.uk/events/lunchbytes-2022-11-24.html)
 
+12pm Thursday 24th November
 
 # Future Events
 
