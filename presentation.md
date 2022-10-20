@@ -19,10 +19,7 @@ University of Sheffield RSE Team
 
 # Q&A
 
-
-Join at [slido.com](https://slido.com) with code **8922743**
-
-or via <https://app.sli.do/event/aCLNW7nj8gEdMx5SVhUo5U>
+Though Google Meet Q&A
 
 # Future Events
 
